@@ -1,0 +1,107 @@
+.one ul{
+ list-style-type: none;
+}
+
+.one ul li{
+
+    padding: 15px;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+.one{
+
+    background-color: rgb(81, 47, 3);
+    padding: 10px;
+
+}
+
+.one h2{
+
+    text-align: center;
+    color: aliceblue;
+}
+
+/*--------TWO------*/
+
+.two h2{
+
+     text-align: center;
+     color: orangered;
+}
+
+.two p{
+
+    padding: 35px;
+}
+
+.two{
+
+    background-color: green;
+    padding: 10px;
+    
+}
+
+.two1 p{
+
+    text-align: center;
+    margin: 10px;
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px;
+    padding-left: 12px;
+}
+
+/*--------THREE------*/
+
+.three h2{
+
+    text-align: center;
+    color: orangered;
+}
+
+.three p{
+
+   padding: 35px;
+}
+
+.three{
+
+   background-color:rgb(100, 100, 240);
+   padding: 10px;
+   
+}
+
+.three1 p{
+
+   text-align: center;
+   margin: 10px;
+   color: aliceblue;
+   background-color: blue;
+   padding: 15px;
+   padding-left: 12px;
+}
+
+
+/*-----FIVE-------*/
+
+.five ul{
+    list-style-type: none;
+   }
+   
+   .five ul li{
+   
+       padding: 15px;
+       color: aliceblue;
+       font-weight: bold;
+   
+   }
+   
+   .five{
+   
+       background-color:rgb(185, 35, 60);
+       padding: 10px;
+       text-align: center;
+   
+   }
